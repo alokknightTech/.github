@@ -12,7 +12,7 @@
 - 🏥 **AI-Powered Medical Platforms** → [dr24x.com](https://dr24x.com)
 - 🎓 **EdTech & Coaching SaaS** → [inter-college.com](https://inter-college.com)
 - 📖 **Library & Reading Room Management** → [library7x.com](https://library7x.com)
-- 🛒 **E-Commerce & POS Solutions** → [bharatstore.org](https://bharatstore.org), [royalbuffet.in](https://royalbuffet.in)
+- 🛒 **E-Commerce & POS Solutions** → [bharatstore.org](https://bharatstore.org), [royalbuffet.alokknight.com](https://royalbuffet.alokknight.com)
 
 We create full-stack, secure, modular, and enterprise-ready platforms using a broad range of technologies suited to real-world challenges.
 
