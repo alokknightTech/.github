@@ -9,10 +9,10 @@
 **AlokKnight** is an India-based software company that designs, develops, and deploys scalable digital products across multiple industries. Our platforms power businesses in:
 
 - 🏢 **Enterprise ERP Systems**
-- 🏥 **AI-Powered Medical Platforms** → [dr24x.com](https://dr24x.com)
-- 🎓 **EdTech & Coaching SaaS** → [inter-college.com](https://inter-college.com)
-- 📖 **Library & Reading Room Management** → [library7x.com](https://library7x.com)
-- 🛒 **E-Commerce & POS Solutions** → [bharatstore.org](https://bharatstore.org), [royalbuffet.alokknight.com](https://royalbuffet.alokknight.com)
+- 🏥 **AI-Powered Medical Platforms** 
+- 🎓 **EdTech & Coaching SaaS** 
+- 📖 **Library & Reading Room Management** 
+- 🛒 **E-Commerce & POS Solutions** 
 
 We create full-stack, secure, modular, and enterprise-ready platforms using a broad range of technologies suited to real-world challenges.
 
